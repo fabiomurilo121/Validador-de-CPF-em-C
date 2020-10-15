@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Fabio-PC/Documents/Gitkraken/Validador-de-CPF-em-C/cpf.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+
